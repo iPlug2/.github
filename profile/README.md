@@ -1,4 +1,4 @@
-# iPlug 2 - C++ audio plug-in framework
+# iPlug2 - C++ audio plug-in framework
 
 [iPlug2](https://iplug2.github.io/) - is a free open source framework for making audio plugins with minimal code
 
