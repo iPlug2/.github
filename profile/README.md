@@ -5,3 +5,5 @@
 iPlug2 discussions happen at the [iPlug2 forum](https://iplug2.discourse.group) and on the [iPlug2 discord server](https://discord.gg/7h9HW8N9Ke) - see you there!
 
 Please consider [sponsoring the project via github sponsors](https://github.com/sponsors/iplug2) to support further development and maintenance.
+
+https://user-images.githubusercontent.com/655662/215915437-84c48876-531b-4bd5-9934-e12ab576370a.mov
