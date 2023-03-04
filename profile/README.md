@@ -6,4 +6,6 @@ iPlug2 discussions happen at the [iPlug2 forum](https://iplug2.discourse.group) 
 
 If you want to start a new iPlug2 project, the recommended way is with [iPlug2OOS](https://github.com/iPlug2/iPlug2OOS), which is a template repository set up with github actions ready to build your project automatically in the cloud.
 
+iPlug2 API Documentation is published [here](https://iplug2.github.io/docs) and be sure to check out the [iPlug2 Wiki](https://github.com/iPlug2/iPlug2/wiki)
+
 Please consider [sponsoring the project via github sponsors](https://github.com/sponsors/iplug2) to support further development and maintenance.
