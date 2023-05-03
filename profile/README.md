@@ -8,4 +8,4 @@ If you want to start a new iPlug2 project, the recommended way is with [iPlug2OO
 
 iPlug2 API Documentation is published [here](https://iplug2.github.io/docs) and be sure to check out the [iPlug2 Wiki](https://github.com/iPlug2/iPlug2/wiki)
 
-Please consider [sponsoring the project via github sponsors](https://github.com/sponsors/iplug2) to support further development and maintenance.
+Please consider contributing your time to help fix [issues or add features](https://github.com/iPlug2/iPlug2/issues) and/or [supporting the project via github sponsors](https://github.com/sponsors/iplug2).
